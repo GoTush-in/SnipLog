@@ -1,5 +1,5 @@
 ![GitHub Release](https://img.shields.io/github/v/release/GoTush-in/SnipLog)
-# SnipLog
+# SnipLog 
 
 SnipLog is a Windows utility that retains clipboard images and text in a local folder that can be retrieved by user even after weeks or month.
 
